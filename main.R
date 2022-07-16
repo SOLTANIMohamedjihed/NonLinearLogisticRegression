@@ -1,4 +1,4 @@
-# Source Google
+#Interactive visualization of non-linear logistic regression  with Shiny  *** Source Google
 
 library(shiny)
 
